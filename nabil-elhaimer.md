@@ -1,2 +1,4 @@
-Bonjour
-cadavre exquis
+Bonjour.
+Cadavre exquis.
+
+ca va ?
